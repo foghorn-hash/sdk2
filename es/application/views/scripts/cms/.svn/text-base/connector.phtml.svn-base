@@ -1,0 +1,13 @@
+<?php 
+/**
+ * Teknologiaplaneetta - Enterprise Solution
+ *
+ * LICENSE: Open Source (GNU GPL)
+ *
+ * @copyright  2007 Teknologiaplaneetta
+ * @license    http://www.gnu.org/copyleft/gpl.html  GNU GPL Version 2
+ * @version    $Id$ 0.1.5
+ * @link       http://www.teknologiaplaneetta.com/
+ */  
+ include('filemanager/browser/default/connectors/php/connector.php');
+?>

@@ -1,0 +1,3 @@
+RewriteEngine on
+RewriteRule !\.(js|ico|gif|jpg|png|css|jar|cab|au|cfg|lng|class)$ index.php
+php_value display_errors 0

@@ -1,0 +1,19 @@
+<?php 
+/**
+ * Teknologiaplaneetta Enterprise Solution
+ *
+ * LICENSE: Open Source (GNU GPL)
+ *
+ * @copyright  2007 Teknologiaplaneetta
+ * @license    http://www.gnu.org/copyleft/gpl.html  GNU GPL Version 2
+ * @version    $Id$ 0.1.5
+ * @link       http://www.teknologiaplaneetta.com/
+ */ 
+
+ if (isset($_GET['page'])) {
+ redirect ('cms/articles?page='.$_GET['page']); 
+ } else {
+redirect ('cms/articles'); 
+}
+
+?>

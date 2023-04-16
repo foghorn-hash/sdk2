@@ -1,0 +1,17 @@
+0.1.4
+-Zend Session based session system
+-Zend Auth based login
+-Own es.ini to modify application based php.ini settings
+-MVC system with Zend Controller
+-Application path for PHP code can be set outside document root
+-Change moo.fx to jQuery
+0.1.3
+-databases structure fixes
+-back to moo.fx for better browser support
+-added some new files to template system core
+-changed config.inc.php to support Zend Framework config class
+0.1.2
+-changed moo.fx to mootools
+-fixes to php files
+0.1.1
+-
